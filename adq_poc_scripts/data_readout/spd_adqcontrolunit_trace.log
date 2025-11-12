@@ -1,0 +1,15 @@
+---------------------------------------------------------------------
+Log and error trace for ADQControlUnit
+API Revision : 2025.1-275-gaacf6005
+---------------------------------------------------------------------
+INFO : libusb version 1.0.25.11696
+INFO : (ListDevices:340) : ListDevices found 0 QPCIE devices.
+INFO : (ListDevices:456) : ListDevices found 5 USB devices.
+INFO : (ListDevices:717) : ListDevices found 5 USB devices.
+INFO : (OpenDeviceInterface:895) : OpenDeviceInterface: Opening interface to device from info list entry 0.
+INFO : (OpenDeviceInterface:1364) : OpenDeviceInterface: Device interface successfully opened.
+INFO : (SetupDevice:1432) : SetupDevice: Setting up device from info list entry 0.
+INFO : (SetupDevice:1438) : SetupDevice: Found opened ADQ object that matches info entry.
+-------------------------------------
+End of Log Session for ADQControlUnit
+-------------------------------------

@@ -1,0 +1,336 @@
+---------------------------------------------------------------------
+Log and error trace from ADQ of type     3
+---------------------------------------------------------------------
+
+[Log Header]
+Operating System       : Linux
+OS details             : Linux 5.15.148-tegra #1 SMP PREEMPT Thu Sep 18 15:08:33 PDT 2025 
+CPU info /proc/cpuinfo : 
+processor	: 0
+model name	: ARMv8 Processor rev 1 (v8l)
+BogoMIPS	: 62.50
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm lrcpc dcpop asimddp uscat ilrcpc flagm paca pacg
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x0
+CPU part	: 0xd42
+CPU revision	: 1
+
+processor	: 1
+model name	: ARMv8 Processor rev 1 (v8l)
+BogoMIPS	: 62.50
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm lrcpc dcpop asimddp uscat ilrcpc flagm paca pacg
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x0
+CPU part	: 0xd42
+CPU revision	: 1
+
+processor	: 2
+model name	: ARMv8 Processor rev 1 (v8l)
+BogoMIPS	: 62.50
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm lrcpc dcpop asimddp uscat ilrcpc flagm paca pacg
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x0
+CPU part	: 0xd42
+CPU revision	: 1
+
+processor	: 3
+model name	: ARMv8 Processor rev 1 (v8l)
+BogoMIPS	: 62.50
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm lrcpc dcpop asimddp uscat ilrcpc flagm paca pacg
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x0
+CPU part	: 0xd42
+CPU revision	: 1
+
+processor	: 4
+model name	: ARMv8 Processor rev 1 (v8l)
+BogoMIPS	: 62.50
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm lrcpc dcpop asimddp uscat ilrcpc flagm paca pacg
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x0
+CPU part	: 0xd42
+CPU revision	: 1
+
+processor	: 5
+model name	: ARMv8 Processor rev 1 (v8l)
+BogoMIPS	: 62.50
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm lrcpc dcpop asimddp uscat ilrcpc flagm paca pacg
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x0
+CPU part	: 0xd42
+CPU revision	: 1
+
+processor	: 6
+model name	: ARMv8 Processor rev 1 (v8l)
+BogoMIPS	: 62.50
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm lrcpc dcpop asimddp uscat ilrcpc flagm paca pacg
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x0
+CPU part	: 0xd42
+CPU revision	: 1
+
+processor	: 7
+model name	: ARMv8 Processor rev 1 (v8l)
+BogoMIPS	: 62.50
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm lrcpc dcpop asimddp uscat ilrcpc flagm paca pacg
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x0
+CPU part	: 0xd42
+CPU revision	: 1
+
+processor	: 8
+model name	: ARMv8 Processor rev 1 (v8l)
+BogoMIPS	: 62.50
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm lrcpc dcpop asimddp uscat ilrcpc flagm paca pacg
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x0
+CPU part	: 0xd42
+CPU revision	: 1
+
+processor	: 9
+model name	: ARMv8 Processor rev 1 (v8l)
+BogoMIPS	: 62.50
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm lrcpc dcpop asimddp uscat ilrcpc flagm paca pacg
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x0
+CPU part	: 0xd42
+CPU revision	: 1
+
+processor	: 10
+model name	: ARMv8 Processor rev 1 (v8l)
+BogoMIPS	: 62.50
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm lrcpc dcpop asimddp uscat ilrcpc flagm paca pacg
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x0
+CPU part	: 0xd42
+CPU revision	: 1
+
+processor	: 11
+model name	: ARMv8 Processor rev 1 (v8l)
+BogoMIPS	: 62.50
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm lrcpc dcpop asimddp uscat ilrcpc flagm paca pacg
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x0
+CPU part	: 0xd42
+CPU revision	: 1
+
+Device type (integral) : 3
+API Revision           : 2025.1-275-gaacf6005
+[End of Log Header]
+
+INFO : Enumerating AXI module BaseAddressMap     v1.0 at base address 0x00010000.
+INFO : Enumerating AXI module IoChecker          v1.0 at base address 0x00017000.
+INFO : Enumerating AXI module SampleSorter       v1.1 at base address 0x00016000.
+INFO : Enumerating AXI module JESD204PHY         v4.0 at base address 0x00015000.
+INFO : Enumerating AXI module UserLogic          ---- at base address 0x000D0000.
+INFO : Enumerating AXI module JESD204C           v4.2 at base address 0x00014000.
+INFO : Enumerating AXI module UserLogic          ---- at base address 0x000C0000.
+INFO : Enumerating AXI module ADQ3Top            v2.0 at base address 0x00013000.
+INFO : Enumerating AXI module LicenseManager     v1.0 at base address 0x00012000.
+INFO : Enumerating AXI module P2pPacker          v1.4 at base address 0x000B0000.
+INFO : Enumerating AXI module SpiB               v1.0 at base address 0x00011400.
+INFO : Enumerating AXI module I2C                ---- at base address 0x00011200.
+INFO : Enumerating AXI module SpiA               ---- at base address 0x00011100.
+INFO : Enumerating AXI module SpiA               ---- at base address 0x00011080.
+INFO : Enumerating AXI module SpiA               ---- at base address 0x00011000.
+INFO : Enumerating AXI module P2pDispatcher      v1.3 at base address 0x000A0000.
+INFO : Enumerating AXI module FirFilter          v1.0 at base address 0x00090000.
+INFO : Enumerating AXI module TriggerDelay       v1.0 at base address 0x0008E000.
+INFO : Enumerating AXI module TriggerControl     v1.4 at base address 0x0008D000.
+INFO : Enumerating AXI module TestPattern        v1.1 at base address 0x0008C000.
+INFO : Enumerating AXI module SampleSkip         v1.2 at base address 0x0008B000.
+INFO : Enumerating AXI module Pretrigger         v1.1 at base address 0x0008A000.
+INFO : Enumerating AXI module LevelTrigger       v2.3 at base address 0x00089000.
+INFO : Enumerating AXI module GainAndOffset      v1.0 at base address 0x00088000.
+INFO : Enumerating AXI module FirmwareInfo       v1.6 at base address 0x00087000.
+INFO : Enumerating AXI module DramFlowController v1.0 at base address 0x00086000.
+INFO : Enumerating AXI module DebugCounters      v1.0 at base address 0x00085000.
+INFO : Enumerating AXI module DBS                v2.0 at base address 0x00084000.
+INFO : Enumerating AXI module Compression        v1.0 at base address 0x00083000.
+INFO : Enumerating AXI module BarrelShifter      v1.0 at base address 0x00082000.
+INFO : Enumerating AXI module Acquisition        v1.5 at base address 0x00081000.
+INFO : Enumerating AXI module PdrxFilter         v1.0 at base address 0x00080200.
+INFO : Enumerating AXI module PdrxGain           v2.0 at base address 0x00080080.
+INFO : Enumerating AXI module PdrxCombine        v1.0 at base address 0x00080000.
+INFO : Enumerating AXI module PrimaryXdma        ---- at base address 0x00020000.
+INFO : Communication interface: PCIe Gen3x8
+INFO : Firmware name: 2CH-FWDAQ-PCIE
+INFO : Firmware type: STANDARD
+INFO : Firmware revision: 2025.1.1
+INFO : Firmware part number: 400-023-000
+INFO : FPGA DNA: 000000004002000101552cc53c4023c5
+INFO : Running idle I/O test on: SPI_SYSMAN
+INFO : Running idle I/O test on: SPI_EEPROM
+INFO : Attempting to enumerate and cache EEPROM.
+INFO :    Found EEPROM block: BASIC   , length 332
+INFO :    Found EEPROM block: DELAYLIN, length 118
+INFO :    Found EEPROM block: CHANNELS, length 39
+INFO :    Found EEPROM block: ADJBIAS2, length 47
+INFO :    Found EEPROM block: GAINOFFS, length 28
+INFO :    Found EEPROM block: CLOCKSYS, length 42
+INFO :    Found EEPROM block: ADCRANGE, length 23
+INFO :    Found EEPROM block: REFCAL  , length 20
+INFO :    Found EEPROM block: TRIGDEL , length 289
+INFO :    Found EEPROM block: FEATURES, length 54
+INFO :    Found EEPROM block: INPRANG2, length 65
+INFO :    Found EEPROM block: LICENSE , length 50
+INFO :    Found EEPROM block: 12DJTRIM, length 36
+INFO :    Found EEPROM block: CALDATE , length 124
+INFO :    Found EEPROM block: LAST    , length 18
+INFO : Cached a total of 1301 bytes from the EEPROM. Took 0.03 seconds
+INFO : Successfully parsed EEPROM BASIC block.
+INFO : EEPROM BASIC block contents:
+INFO :   Product:     ADQ33-DC-S1G0-BW1G0-R0V5-PCIe
+INFO :   Serial:      SPD-14553
+INFO :   Product P/N: 320-002-003-J
+INFO :   PCBA P/N:    300-000-322-H
+INFO :   PCB P/N:     106-000-155-D
+INFO : Successfully parsed EEPROM LICENSE block.
+INFO : Successfully parsed EEPROM GAINOFFS block.
+INFO : Successfully parsed EEPROM CHANNELS block.
+INFO : Successfully parsed EEPROM FEATURES block.
+INFO : Successfully parsed EEPROM INPRANG2 block.
+INFO : Successfully parsed EEPROM TRIGDEL block.
+INFO : EEPROM TRIGDEL block contents:
+INFO :   Trigger 2: 32 taps, 1 sample rate calibrations (1000.00 MSPS)
+INFO :   Trigger 102: 32 taps, 1 sample rate calibrations (0.00 MSPS)
+INFO : Successfully parsed EEPROM ADJBIAS2 block.
+INFO : Successfully parsed EEPROM REFCAL block.
+INFO : Successfully parsed EEPROM CLOCKSYS block.
+INFO : Successfully parsed EEPROM DELAYLIN block.
+INFO : Successfully parsed EEPROM ADCRANGE block.
+INFO : Successfully parsed EEPROM 12DJTRIM block.
+INFO : License hash comparison passed.
+INFO : License bits in current license:    0000012000000080
+INFO : License bits required by firmware:          00000080
+INFO : Optional licenses used by firmware: 00000112
+INFO : Valid license(s):
+INFO :   FWDAQ
+INFO :   Sample rate up to 1.0 GS/s
+INFO :   Channel(s) 1, 2
+INFO : Running I/O activity test on: SPI_EEPROM
+INFO : Lifetime unrecoverable overtemperature faults: 0.
+INFO : ----------------------------------------------------
+INFO :  Sensor                           | Value    | Unit
+INFO : ----------------------------------------------------
+INFO :  Temperatures
+INFO : ----------------------------------------------------
+INFO :  Front-end temperature                43.625   degC 
+INFO :  Air inlet temperature                29.750   degC 
+INFO :  FPGA temperature                     48.755   degC 
+INFO :  +0V95 temperature                    41.000   degC 
+INFO :  ADC temperature                      53.740   degC 
+INFO : ----------------------------------------------------
+INFO :  Voltages
+INFO : ----------------------------------------------------
+INFO :  +5V1                                  5.147      V 
+INFO :  +3V3SM                                3.257      V 
+INFO :  +11VSM                               11.129      V 
+INFO :  VCXO monitor                          0.018      V 
+INFO :  +3V3                                  3.295      V 
+INFO :  +3V3CLK                               3.268      V 
+INFO :  +2V6A                                 2.554      V 
+INFO :  +2V5                                  2.508      V 
+INFO :  +1V8                                  1.805      V 
+INFO :  +0V6TTA                               0.617      V 
+INFO :  +0V6TTB                               0.616      V 
+INFO :  +1V1D                                 1.100      V 
+INFO :  +1V1A                                 1.100      V 
+INFO :  +1V9A                                 1.887      V 
+INFO :  +12V                                 11.818      V 
+INFO :  +7VA                                  7.019      V 
+INFO :  +5V0                                  5.016      V 
+INFO :  +1V2                                  1.205      V 
+INFO :  +1V0                                  0.988      V 
+INFO :  +0V95                                 0.955      V 
+INFO :  -11V                                -10.774      V 
+INFO :  -7V2A                                -7.137      V 
+INFO :  -3V4                                 -3.318      V 
+INFO :  -2V6A                                -2.563      V 
+INFO : ----------------------------------------------------
+INFO :  Currents
+INFO : ----------------------------------------------------
+INFO :  +0V95 output current                  3.375      A 
+INFO : ----------------------------------------------------
+INFO :  Power
+INFO : ----------------------------------------------------
+INFO :  +0V95 power                           3.218      W 
+INFO : ----------------------------------------------------
+INFO :  Other
+INFO : ----------------------------------------------------
+INFO :  Fan speed                            60.000      % 
+INFO : ----------------------------------------------------
+INFO : Frequency estimate for INT_OSC: 48.96 MHz
+INFO : Running idle I/O test on: SPI
+INFO : Running idle I/O test on: SPI
+INFO : Running idle I/O test on: I2C
+INFO : Running I/O activity test on: I2C
+INFO : PLL detected: LMK04821
+INFO : Detected DAC #0 at SPI address 0
+INFO : Running I/O activity test on: SPI
+INFO : ADC: Detected ADC12DJxx00RF at SPI address 0
+INFO : Running I/O activity test on: SPI
+INFO : Frequency estimate for DRAM_C1_FREQ: 100.00 MHz
+INFO : Frequency estimate for PCIE_AXICLK_FREQ: 249.43 MHz
+INFO : Clock generator: Internal PLL.
+INFO : Reference source: Internal.
+INFO : Low jitter mode: enabled.
+INFO : Clock delay adjustment: disabled.
+INFO : VCXO frequency set to 10.00 MHz
+INFO : Selected VCO1 div3 (973 - 1026), CH div 1, for clock rate 1000.0 MHz
+INFO : PLL2 locked after 50 ms.
+INFO : Frequency estimate for PLL2_REFCLK_FREQ: 10.00 MHz
+INFO : Frequency estimate for DATACLK_1X_FREQ: 125.00 MHz
+INFO : Frequency estimate for DATACLK_2X_FREQ: 250.00 MHz
+INFO : Frequency estimate for JESD_CORECLK_FREQ: 100.00 MHz
+INFO : JESD204PHY (ADC1): 8 GTs and 2 common interfaces.
+INFO : JESD204PHY (ADC1): Successfully set up JESD PHY.
+INFO : JESD204PHY (ADC1): Reset successfully.
+INFO : JESD204C (ADC1): JESD IP reset successfully.
+INFO : JESD204PHY (ADC1): CPLL locked.
+INFO : Frequency estimate for JESD_GTXCLK_FREQ: 100.00 MHz
+INFO : Reference clock ratio: (200/16 - 1) * 2**25 = 0x17000000 (gcd 8).
+INFO : Reference clock phase counter: 24.
+INFO : ADC: SYSREF detector: 1....... ........ .......1
+INFO : ADC: JESD_EN = 1
+INFO : ADC: LINK_UP = 1
+INFO : ADC: SYNC_STATUS = 1
+INFO : ADC: REALIGNED = 1
+INFO : ADC: ALIGNED = 1
+INFO : ADC: PLL_LOCKED = 1
+INFO : JESD204C (ADC1): L0: Start of data = 1, Start of ILA = 1, CGS = 1, BC align in progress = 0
+INFO : JESD204C (ADC1): L1: Start of data = 1, Start of ILA = 1, CGS = 1, BC align in progress = 0
+INFO : JESD204C (ADC1): L2: Start of data = 1, Start of ILA = 1, CGS = 1, BC align in progress = 0
+INFO : JESD204C (ADC1): L3: Start of data = 1, Start of ILA = 1, CGS = 1, BC align in progress = 0
+INFO : JESD204C (ADC1): L4: Start of data = 1, Start of ILA = 1, CGS = 1, BC align in progress = 0
+INFO : JESD204C (ADC1): L5: Start of data = 1, Start of ILA = 1, CGS = 1, BC align in progress = 0
+INFO : JESD204C (ADC1): L6: Start of data = 1, Start of ILA = 1, CGS = 1, BC align in progress = 0
+INFO : JESD204C (ADC1): L7: Start of data = 1, Start of ILA = 1, CGS = 1, BC align in progress = 0
+INFO : JESD204C (ADC1): Lane buffer fill [bytes]: 192, 192, 192, 192, 192, 192, 192, 192.
+INFO : JESD204C (ADC1): JESD link synchronized successfully.
+INFO : SampleSorter (JESD instance 0): FIFO count = 33, SYSREF->DATA count = 515.
+INFO : TRIG: Sample rate 1000 MSPS, using idelay values for 1000 MSPS (only one available).
+INFO : DRAM0 test started.
+INFO : DRAM1 test started.
+INFO : DRAM0 test successful
+INFO : DRAM1 test successful
+INFO : DRAM FIFO range set to [0x0, 0x3FFFFFF]
+INFO : Enumerating AXI module EventCore          v2.2 at base address 0x0008D400.
+INFO : Enumerating AXI module FunctionCore       v1.1 at base address 0x0008D800.
+INFO : DBS instance 0 - 2 cores per channel.
+INFO : DBS instance 1 - 2 cores per channel.
+--------------------------
+End of Log Session for ADQ
+--------------------------
